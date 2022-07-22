@@ -1,5 +1,5 @@
 {
   "require": "ts-node/register/files",
   "timeout": 40000,
-  "_": ["test/**/*.ts"]
+  "_": ["tests/**/*.ts"]
 }
